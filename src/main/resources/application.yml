@@ -1,0 +1,12 @@
+test:
+  Test1:
+    name: happy
+    role: good
+
+  Test2:
+    name: excited
+    role: great
+
+  Test3:
+    name: curious
+    role: well
