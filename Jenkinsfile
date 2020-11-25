@@ -1,5 +1,5 @@
 #! groovy
-@Library('pipelineLib@release-1.1.13') _
+//@Library('pipelineLib@release-1.1.13') _
 pipeline {
  agent {
  label "any" //"windows"
